@@ -1,0 +1,31 @@
+body {
+  background: #DDC9B4;
+  font-family: helvetica, arial, sans-serif;
+  font-size:  16px;
+  color: #0C090D;
+}
+
+#headshot img {
+    width: 100px;
+    height: 100px;
+}
+
+p {
+  font-size: 1em;
+  lime-height: 1.4em;
+  margin-bottom: 20px;
+  color: #7A6C5D;
+}
+
+
+#container {
+  width: 90%;
+  max-width: 800px;
+  background: #AD9A85;
+  margin: top right bottom left;
+  margin: 30px auto;
+  padding: 30px;
+  }
+
+  section{
+    border-top: 1px solid
